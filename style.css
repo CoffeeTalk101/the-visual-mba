@@ -1,0 +1,1152 @@
+.allcaps {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JBFundamentals";
+    font-size: 1.83333em;
+    font-weight: bold;
+    hyphens: auto;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.allcaps1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.archer-book {
+    font-family: "Archer-Book", serif
+    }
+.backtitle {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.66667em;
+    font-weight: light;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center
+    }
+.bigjasonbarronhandwritingbold {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingBold";
+    font-size: 2em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.blackhandwriting {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.buttonbox {
+    display: block;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-rendering: optimizeSpeed
+    }
+.calibre1 {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 100%;
+    page-break-inside: avoid;
+    width: 100%
+    }
+.calibre2 {
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%
+    }
+.calibre3 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    width: 100%
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    page-break-after: always
+    }
+.calibre8 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.calibre9 {
+    font-style: italic
+    }
+.calibre10 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre11 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre12 {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre13 {
+    display: list-item
+    }
+.center {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center2 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5.7em;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center3 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center4 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center5 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 2
+    }
+.center6 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 0.625em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center7 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 2
+    }
+.chaptertitle {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JBChapters", serif;
+    font-size: 2em;
+    font-weight: light;
+    hyphens: auto;
+    letter-spacing: 0.15em;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.chaptertitle1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JBChapters", serif;
+    font-size: 2em;
+    font-weight: light;
+    hyphens: auto;
+    letter-spacing: 0.15em;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.cn {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JBChapters", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    letter-spacing: 0.15em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.context {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.copyright {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 0.83333em;
+    hyphens: none
+    }
+.dashed {
+    border-bottom-color: currentColor;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: dashed;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: dashed;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: dashed;
+    border-top-width: 1px;
+    color: #b3b5b8;
+    display: block;
+    font-size: 2em;
+    height: 2px;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    width: 95%
+    }
+.floatl {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+    margin-left: 0%;
+    margin-right: 2%;
+    margin-top: 0.5em;
+    width: 20%;
+    word-wrap: break-word
+    }
+.floatl1 {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+    margin-left: 0%;
+    margin-right: 2%;
+    margin-top: 0.5em;
+    width: 40%;
+    word-wrap: break-word
+    }
+.floatr {
+    display: block;
+    float: right;
+    margin-bottom: 0;
+    margin-left: 2%;
+    margin-right: 0%;
+    margin-top: 0.5em;
+    width: 60%;
+    word-wrap: break-word
+    }
+.floatr1 {
+    display: block;
+    float: right;
+    margin-bottom: 0;
+    margin-left: 2%;
+    margin-right: 0%;
+    margin-top: 0.5em;
+    width: 40%;
+    word-wrap: break-word
+    }
+.follow {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.follow1 {
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.follow2 {
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.fronttitle {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.66667em;
+    font-weight: light;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.fronttitle1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.66667em;
+    font-weight: light;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.full {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    text-align: center;
+    width: 100%
+    }
+.fundamentals {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JBFundamentals";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.green {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    color: #5f9a35;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.green1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    color: #5f9a35;
+    display: block;
+    font-family: "JasonBarronHandwritingItalic", serif;
+    font-size: 1.29167em;
+    font-style: italic;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.half {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-after: always;
+    page-break-inside: avoid;
+    width: 50%
+    }
+.half1 {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-inside: avoid;
+    width: 50%
+    }
+.handwritingmedium {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.handwritingmedium1 {
+    font-family: "JasonBarronHandwritingMedium"
+    }
+.handwritingmedium2 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    font-size: 0.75em;
+    font-weight: bold;
+    hyphens: auto;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left;
+    text-transform: uppercase
+    }
+.handwritingmedium3 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid;
+    text-align: left
+    }
+.handwritingmedium4 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    font-size: 1.29167em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.handwritingmedium5 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    font-size: 1.29167em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.hang {
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.hang1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.indent {
+    display: block;
+    margin-bottom: 1.25em;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1.25em
+    }
+.inline {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0.25em;
+    margin-top: 0.25em;
+    text-indent: 0;
+    width: 8em
+    }
+.inline1 {
+    display: inline-block;
+    text-indent: 0
+    }
+.jasonbarronhandwritingbold {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingBold";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.jasonbarronhandwritingbold1 {
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.jasonbarronhandwritingbold2 {
+    line-height: 1.2
+    }
+.jasonbarronhandwritingbold3 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingBold";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left;
+    text-transform: uppercase
+    }
+.jasonbarronhandwritinglight {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left
+    }
+.jasonbarronhandwritinglight1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: left;
+    text-transform: uppercase
+    }
+.jasonbarronhandwritinglight2 {
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.jasonbarronhandwritinglight3 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingLight";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.jasonbarronhandwritingtitles {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingTitles";
+    font-size: 1.83333em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.jasonbarronhandwritingtitles1 {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "JasonBarronHandwritingTitles";
+    font-size: 1.66667em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.larger {
+    font-size: 1.66667em;
+    line-height: 1.2
+    }
+.largest {
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.largest1 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.left {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.left1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.left2 {
+    display: block;
+    font-family: "JasonBarronHandwritingMedium";
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.right {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: right;
+    text-indent: 0;
+    widows: 2
+    }
+.small {
+    font-size: 0.775em;
+    line-height: 1.2
+    }
+.smallcaps {
+    font-size: 1.2em;
+    font-variant: small-caps;
+    line-height: 1.2
+    }
+.smallcaps1 {
+    font-size: 0.775em;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.smallcaps2 {
+    font-size: 0.83333em;
+    text-transform: uppercase
+    }
+.smaller {
+    font-size: 0.45em
+    }
+.smaller1 {
+    font-size: 0.625em
+    }
+.subcontainer {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0.25em;
+    margin-top: 0.25em;
+    width: 8em
+    }
+.tenth {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-inside: avoid;
+    width: 10%
+    }
+.third {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-inside: avoid;
+    width: 33%
+    }
+.three-quarter {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-inside: avoid;
+    width: 75%
+    }
+.three-quarter1 {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-after: always;
+    page-break-inside: avoid;
+    width: 75%
+    }
+.toc {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    display: block;
+    font-style: italic;
+    hyphens: none;
+    margin-bottom: 0;
+    margin-left: 2em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-bottom: 1px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 1px;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.toc1 {
+    -epub-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    display: block;
+    hyphens: none;
+    margin-bottom: 0;
+    margin-left: 2em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-bottom: 1px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 1px;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.two-third {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.75em;
+    page-break-inside: avoid;
+    width: 66%
+    }
+.websitebutton {
+    text-decoration: none
+    }
+.websitebutton1 {
+    background-color: #D3D3D3;
+    border-radius: 60px;
+    color: #3B3B3B;
+    display: inline-block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    text-align: center;
+    vertical-align: middle
+    }
+.yellow {
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    color: #f6ab48;
+    display: block;
+    font-family: "Archer-Light", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Archer-Bold";
+    font-weight: bold;
+    src: url(OPS/font/Archer-Bold.otf)
+    }
+@font-face {
+    font-family: "Archer-Book";
+    font-weight: normal;
+    src: url(OPS/font/Archer-Book.otf)
+    }
+@font-face {
+    font-family: "Archer-Light";
+    font-weight: light;
+    src: url(OPS/font/Archer-Light.otf)
+    }
+@font-face {
+    font-family: "JasonBarronHandwritingItalic";
+    font-style: italic;
+    src: url(OPS/font/JasonBarronHandwritingItalic.ttf)
+    }
+@font-face {
+    font-family: "JBChapters";
+    font-weight: bold;
+    src: url(OPS/font/JBChapters.ttf)
+    }
+@font-face {
+    font-family: "JasonBarronHandwritingBold";
+    font-weight: bold;
+    src: url(OPS/font/JasonBarronHandwritingBold.ttf)
+    }
+@font-face {
+    font-family: "JasonBarronHandwritingLight";
+    font-weight: bold;
+    src: url(OPS/font/JasonBarronHandwritingLight.ttf)
+    }
+@font-face {
+    font-family: "JasonBarronHandwritingMedium";
+    font-weight: bold;
+    src: url(OPS/font/JasonBarronHandwritingMedium.ttf)
+    }
+@font-face {
+    font-family: "JasonBarronHandwritingTitles";
+    font-weight: bold;
+    src: url(OPS/font/JasonBarronHandwritingTitles.ttf)
+    }
+@font-face {
+    font-family: "JBFundamentals";
+    font-weight: bold;
+    src: url(OPS/font/JBFundamentals.ttf)
+    }
+

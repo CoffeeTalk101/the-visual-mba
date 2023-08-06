@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">07eecab7-bdd7-4f2d-9e85-345678f52633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07eecab7-bdd7-4f2d-9e85-345678f52633</dc:identifier>
+        <dc:title>The Visual MBA</dc:title>
+        <dc:creator opf:file-as="Barron, Jason" opf:role="aut">Jason Barron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Jason Barron spent 516 hours in class, completed mountains of homework and shelled out tens of thousands of dollars to complete his MBA at the BYU Marriott School of Business. Along the way, rather than taking boring notes that he would never read (nor use) again, Jason created sketch notes for each class&amp;#8212;visually capturing the essential points of his education&amp;#8212;and providing an engaging and invaluable resource.&lt;BR /&gt; &lt;BR /&gt; Once finished with his MBA, Jason launched a widely successful Kickstarter campaign distilling these same notes into a self-published book to help aspiring business leaders of all backgrounds and income levels understand the critical concepts one learns in business school.&lt;BR /&gt; &lt;BR /&gt; Whether you are thinking about applying to business school, are currently in college studying business, or have always wondered what is taught in an MBA program, this highly entertaining and visual book is for you.&lt;BR /&gt;</dc:description>
+        <dc:publisher>HMH Books</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
